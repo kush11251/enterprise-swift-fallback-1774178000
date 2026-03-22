@@ -1,0 +1,1 @@
+Generated extra file for structure.
